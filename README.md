@@ -1,4 +1,4 @@
-My Final Project for Grade 10 APCSA, run Main.java to run the program.
+My Final Project for Grade 10 APCSA which won ASL CS Expo, run Main.java to run the program.
 
 Description:
 - A platformer game inspired by Celeste, with various different game objects and one large continuous level
